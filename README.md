@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next Js and Backend**
 
-- 💬 Ask me about **React, FireBase and DSA Problem Solving**
+- 💬 Ask me about **MERN STACK DEVLOPMENT, DSA AND LLM**
 
 - 📫 How to reach me **ramchandrapatel08006@gmail.com**
 
